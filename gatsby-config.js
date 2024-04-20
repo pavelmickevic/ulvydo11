@@ -4,7 +4,7 @@
 module.exports = {
   siteMetadata: {
     title: `Ulvydo11`,
-    siteUrl: `https://www.yourdomain.tld`
+    siteUrl: `https://ulvydo11.lt`,
   },
-  plugins: ["gatsby-plugin-postcss"]
+  plugins: ["gatsby-plugin-postcss"],
 };
